@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31205.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Adiguzel.Soru4", "Adiguzel.Soru4\Adiguzel.Soru4.csproj", "{9FB346D6-131F-42B6-94D4-80A4C2696052}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9FB346D6-131F-42B6-94D4-80A4C2696052}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9FB346D6-131F-42B6-94D4-80A4C2696052}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9FB346D6-131F-42B6-94D4-80A4C2696052}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9FB346D6-131F-42B6-94D4-80A4C2696052}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {46427077-7D78-4789-A09F-7972B50BE62E}
+	EndGlobalSection
+EndGlobal
